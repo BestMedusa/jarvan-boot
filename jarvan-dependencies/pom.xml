@@ -24,7 +24,7 @@
         <common.lang3.version>3.3.2</common.lang3.version>
         <common.codec.version>1.10</common.codec.version>
         <!--第三方插件-->
-        <com.itextpdf.version>5.5.11</com.itextpdf.version>
+        <com.itextpdf.version>5.5.12</com.itextpdf.version>
         <com.itextpdf.itext-asian.version>5.2.0</com.itextpdf.itext-asian.version>
         <org.xhtmlrenderer.version>R8</org.xhtmlrenderer.version>
         <com.google.zxing.version>3.2.1</com.google.zxing.version>
